@@ -176,15 +176,14 @@
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="24dp"
             android:layout_marginTop="8dp"
+            android:autoLink="web"
+            android:textColorLink="@color/color_texto"
             android:fontFamily="@font/anton"
             android:textColor="@color/white"
             android:textSize="16sp" />
 
 
     </LinearLayout>
-
-
-
 
     <Button
         android:id="@+id/btnLlamar"
