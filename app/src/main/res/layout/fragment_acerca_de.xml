@@ -13,11 +13,10 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="410dp"
+            android:layout_gravity="top"
             android:alpha="0.1"
             android:scaleType="fitCenter"
-            android:layout_gravity="top"
-            android:src="@drawable/background_food"
-            />
+            android:src="@drawable/background_food" />
 
         <ImageView
             android:layout_width="match_parent"
@@ -51,10 +50,9 @@
         android:layout_height="wrap_content"
         android:textColor="@color/color_texto"
         android:text="@string/tv_texto_acercade"
-        android:layout_marginTop="50dp"
         android:fontFamily="@font/anton"
         android:layout_marginHorizontal="30dp"
-        android:textSize="18sp"
+        android:textSize="16sp"
         app:layout_constraintTop_toBottomOf="@+id/tv_titleAcrecade"
         app:layout_constraintEnd_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -68,7 +66,7 @@
         android:layout_marginHorizontal="30dp"
         android:text="@string/tv_infoApp_acrecade"
         android:textColor="@color/color_texto"
-        android:textSize="15sp"
+        android:textSize="14sp"
         app:layout_constraintTop_toBottomOf="@+id/tv_textoAcrecade"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

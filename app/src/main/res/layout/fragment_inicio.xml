@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -18,7 +18,7 @@
             android:scaleType="fitCenter"
             android:layout_gravity="top"
             android:src="@drawable/background_food"
-             />
+            />
 
         <ImageView
             android:layout_width="match_parent"
@@ -27,7 +27,7 @@
             android:scaleType="fitCenter"
             android:layout_gravity="bottom"
             android:alpha="0.15"
-             />
+            />
     </FrameLayout>
 
 
@@ -99,9 +99,5 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
-
 
 </FrameLayout>
