@@ -19,7 +19,6 @@ Aplicación de Android para gestionar y visualizar una lista de restaurantes y b
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
 *   **Lenguaje**: Java
-*   **Arquitectura**: Aplicación de una sola actividad (Single-Activity) con Fragmentos.
 *   **UI (Interfaz de Usuario)**:
     *   `Material Design 3`: Para los componentes visuales como `CardView`, `Button`, `RecyclerView`, etc.
     *   `RecyclerView`: Para mostrar la lista de restaurantes de forma eficiente.
