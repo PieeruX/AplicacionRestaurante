@@ -1,13 +1,13 @@
 # ÑamApp 🍽️
 
-Aplicación de Android para gestionar y visualizar una lista de restaurantes y bares. Permite a los usuarios ver los establecimientos en una lista, en un mapa interactivo y añadir, editar o eliminar sus propios registros.
+Aplicación de Android para gestionar y visualizar una lista de restaurantes y bares. Permite a los usuarios ver los establecimientos en una lista, en un mapa interactivo y añadir, puntuar, editar o eliminar sus propios registros.
 
 ## 🌟 Características Principales
 
 *   **Listado de Restaurantes**: Visualiza todos los restaurantes en una lista con su nombre, categoría y puntuación.
-*   **Mapa Interactivo**: Muestra todos los restaurantes en un mapa de Google Maps utilizando marcadores agrupados (clustering) para una mejor visualización.
+*   **Mapa Interactivo**: Muestra todos los restaurantes en un mapa de Google Maps utilizando marcadores agrupados (clustering) para una mejor visualización, los marcadores están personalizados.
 *   **Estilo de Mapa Personalizado**: El mapa utiliza un estilo personalizado creado desde la Google Cloud Platform.
-*   **Detalles del Restaurante**: Al hacer clic en un restaurante (en la lista o en el mapa), se muestra una tarjeta con información detallada.
+*   **Detalles del Restaurante**: Al hacer clic en un restaurante (en la lista), se muestra una tarjeta con información detallada.
 *   **Navegación a Google Maps**: Desde la tarjeta de un restaurante en el mapa, un botón permite abrir la ubicación directamente en la aplicación de Google Maps.
 *   **Gestión CRUD Completa**:
     *   **Añadir**: Un formulario permite crear nuevos restaurantes, obteniendo automáticamente las coordenadas a partir de la dirección introducida (Geocoding).
