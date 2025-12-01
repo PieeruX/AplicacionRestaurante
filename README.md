@@ -1,4 +1,4 @@
-# Ejercicio Restaurante 🍽️
+# ÑamApp 🍽️
 
 Aplicación de Android para gestionar y visualizar una lista de restaurantes y bares. Permite a los usuarios ver los establecimientos en una lista, en un mapa interactivo y añadir, editar o eliminar sus propios registros.
 
