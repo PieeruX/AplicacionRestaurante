@@ -9,9 +9,14 @@ Aplicación de Android para gestionar y visualizar una lista de restaurantes y b
   <img src="https://github.com/user-attachments/assets/b3d0c32a-9616-4f2a-bb2f-befe8e5e438e" width="200">
    <img src="https://github.com/user-attachments/assets/d3a2454e-d720-4aad-807f-5a5b0b4f1848" width="200">
    <img src="https://github.com/user-attachments/assets/1cfef988-ac11-4da4-bd4c-e3e94024f282" width="200">
+    <img src="https://github.com/user-attachments/assets/421cbc01-7490-40b2-9079-3618d52d65e0" width="200">
    <img src="https://github.com/user-attachments/assets/d63e4b9e-6d19-417b-86f7-73e2bc2ea76e" width="200">
+   <img src="https://github.com/user-attachments/assets/fa031912-dbfb-4199-af76-38a7a4a9ee24" width="200">
+   <img src="https://github.com/user-attachments/assets/8c874c74-da57-4a3d-9e70-ecf0196032ea" width="200">
+   <img src="https://github.com/user-attachments/assets/8580a3e3-5a35-403e-b24a-cca5254acb3b" width="200">
+  
   <br>
-  <em>Pantalla de inicio, Agregar nuevo lugar, Lista de Lugares, Mapa</em>
+  <em>Pantalla de inicio, Agregar nuevo lugar, Lista de Lugares, Detalles Restuarante, Mapa, Filtro Bar, Filtro Restaurante, Filtro Estrellas</em>
 </p>
 
 ## 🌟 Características Principales
