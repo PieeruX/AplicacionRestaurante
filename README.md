@@ -16,7 +16,7 @@ Aplicación de Android para gestionar y visualizar una lista de restaurantes y b
 
 ## 🌟 Características Principales
 
-*   **Listado de Restaurantes**: Visualiza todos los restaurantes en una lista con su nombre, categoría y puntuación.
+*   **Listado de restaurantes y bares con filtros:** Permite buscar por nombre, filtrar por categoría (restaurante/bar) y por puntuación en estrellas, facilitando encontrar rápidamente el establecimiento deseado.
 *   **Mapa Interactivo**: Muestra todos los restaurantes en un mapa de Google Maps utilizando marcadores agrupados (clustering) para una mejor visualización, los marcadores están personalizados.
 *   **Estilo de Mapa Personalizado**: El mapa utiliza un estilo personalizado creado desde la Google Cloud Platform.
 *   **Detalles del Restaurante**: Al hacer clic en un restaurante (en la lista), se muestra una tarjeta con información detallada.
