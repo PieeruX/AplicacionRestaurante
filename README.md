@@ -1,5 +1,7 @@
 # ÑamApp 🍽️
 
+**Proyecto académico desarrollado en 2º DAM para la asignatura de Programación Móvil**
+
 Aplicación de Android para gestionar y visualizar una lista de restaurantes y bares. Permite a los usuarios ver los establecimientos en una lista, en un mapa interactivo y añadir, puntuar, editar o eliminar sus propios registros.
 
 ## 🌟 Características Principales
@@ -42,5 +44,3 @@ Aplicación de Android para gestionar y visualizar una lista de restaurantes y b
   <em>Pantalla de inicio, Agregar nuevo lugar, Lista de Lugares, Mapa</em>
 </p>
 
-
-_Desarrollado con ❤️ por Piera Merlo_
